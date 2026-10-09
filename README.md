@@ -1,11 +1,6 @@
 <picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/banner-mobile-dark.svg"><source media="(max-width: 600px)" srcset="assets/banner-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg"><img src="assets/banner-light.svg" alt="Mohamed Hatem, AI Team Lead at Globant. Multi-agent LLM systems, RAG and LLM serving." width="100%"></picture>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-hatem-6a5790173"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/linkedin-dark.svg"><img src="assets/badges/linkedin-light.svg" alt="LinkedIn profile" height="34"></picture></a>
-  <a href="mailto:mhatem5351@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/email-dark.svg"><img src="assets/badges/email-light.svg" alt="Email: mhatem5351@gmail.com" height="34"></picture></a>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/aws-dark.svg"><img src="assets/badges/aws-light.svg" alt="AWS Certified Machine Learning – Specialty" height="34"></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/msc-dark.svg"><img src="assets/badges/msc-light.svg" alt="M.Sc. in Data Science, Cairo University" height="34"></picture>
-</p>
+<p align="center"><a href="https://www.linkedin.com/in/mohamed-hatem-6a5790173"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/linkedin-dark.svg"><img src="assets/badges/linkedin-light.svg" alt="LinkedIn profile" height="34"></picture></a><a href="mailto:mhatem5351@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/email-dark.svg"><img src="assets/badges/email-light.svg" alt="Email: mhatem5351@gmail.com" height="34"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/aws-dark.svg"><img src="assets/badges/aws-light.svg" alt="AWS Certified Machine Learning – Specialty" height="34"></picture><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/msc-dark.svg"><img src="assets/badges/msc-light.svg" alt="M.Sc. in Data Science, Cairo University" height="34"></picture></p>
 
 **AI Team Lead at [Globant](https://www.globant.com).** I design, ship and run production LLM systems: multi-agent orchestration, retrieval (RAG), self-hosted model serving, and the evaluation and monitoring that keep them honest. I'm based in Cairo and work remotely with teams in the Gulf and the US, in English and Arabic.
 
@@ -84,7 +79,7 @@ Freelance work: the site of an industrial-automation company in four languages (
 - **Tested in CI:** about 950 unit tests and 900 end-to-end tests across Chrome, Android and iPhone Safari.
 - **Contact form** with spam protection and email delivery via Workers.
 
-<p><a href="https://logic-controls.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/live-dark.svg"><img src="assets/badges/live-light.svg" alt="Live site: logic-controls.com" height="36"></picture></a> <a href="https://github.com/mhatem5351/logic-controls-website"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/source-dark.svg"><img src="assets/badges/source-light.svg" alt="Source code on GitHub" height="36"></picture></a></p>
+<p><a href="https://logic-controls.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/live-dark.svg"><img src="assets/badges/live-light.svg" alt="Live site: logic-controls.com" height="34"></picture></a><a href="https://github.com/mhatem5351/logic-controls-website"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/source-dark.svg"><img src="assets/badges/source-light.svg" alt="Source code on GitHub" height="34"></picture></a></p>
 
 ## Toolbox
 
@@ -110,7 +105,4 @@ Freelance work: the site of an industrial-automation company in four languages (
 
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg"><img src="assets/divider-light.svg" alt="Section divider" width="420"></picture></p>
 
-<p align="center"><b>Get in touch</b><br><br>
-  <a href="https://www.linkedin.com/in/mohamed-hatem-6a5790173"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/linkedin-dark.svg"><img src="assets/badges/linkedin-light.svg" alt="LinkedIn profile" height="34"></picture></a>
-  <a href="mailto:mhatem5351@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/email-dark.svg"><img src="assets/badges/email-light.svg" alt="Email: mhatem5351@gmail.com" height="34"></picture></a>
-</p>
+<p align="center"><b>Get in touch</b><br><br><a href="https://www.linkedin.com/in/mohamed-hatem-6a5790173"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/linkedin-dark.svg"><img src="assets/badges/linkedin-light.svg" alt="LinkedIn profile" height="34"></picture></a><a href="mailto:mhatem5351@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/email-dark.svg"><img src="assets/badges/email-light.svg" alt="Email: mhatem5351@gmail.com" height="34"></picture></a></p>
