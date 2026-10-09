@@ -1,25 +1,93 @@
-<h1 align="center">Hi 👋, I'm Mohamed Hatem</h1>
-<h3 align="center">An AWS Certified Machine Learning and Data Science Engineer passionate about data science whole pipeline, Big data, NLP, MLOps, and Data integration</h3>
+## Hi, I'm Mohamed Hatem
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mhatem5351" alt="mhatem5351" /></a> </p>
+**AI Team Lead at [Globant](https://www.globant.com).** I design, ship and run production LLM systems: multi-agent
+orchestration, retrieval (RAG), self-hosted model serving, and the evaluation and monitoring that keep them honest.
+I'm based in Cairo and work remotely with teams in the Gulf and the US, in English and Arabic.
 
-- 📫 How to reach me **mhatem5351@gmail.com**
+I came to AI from structural engineering. After my engineering degree I moved into data work (SQL development, then
+data science). Over the last four years I have built AI platforms in production, and I now lead an AI engineering
+team. I hold the **AWS Certified Machine Learning – Specialty** and an **M.Sc. in Data Science** from Cairo University.
 
-- 📄 Know about my experiences [https://www.dropbox.com/s/cef7h4bliw6dvyi/Mohamed_Hatem_Machine_Learning_engineer.pdf?dl=0](https://www.dropbox.com/s/cef7h4bliw6dvyi/Mohamed_Hatem_Machine_Learning_engineer.pdf?dl=0)
+### What I work on
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-hatem-6a5790173" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-hatem-6a5790173" height="30" width="40" /></a>
-</p>
+- **Multi-agent LLM systems.** LangGraph orchestration, from a 6-agent bilingual chatbot to a 14-agent assistant for a
+  stock-media platform.
+- **Retrieval.** Hybrid vector + BM25 search with LLM reranking; semantic and visual search over millions of media
+  assets.
+- **LLM serving & MLOps.** vLLM on A100 GPUs, model versioning, health monitoring and automated recovery, Dockerized
+  FastAPI and gRPC services, CI/CD.
+- **Quality.** LLM evaluation, tracing and observability, so we know a model is right before users find out it isn't.
+- **Arabic + English.** Most of what I have shipped is bilingual.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mhatem5351)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhatem5351&show_icons=true&locale=en&layout=compact" alt="mhatem5351" /></p>
+### Experience
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mhatem5351&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+**AI Team Lead · Globant** · Apr 2026 – present · remote
+- Leading AI engineering on the STA project: multi-agent LLM orchestration, LLM serving and scalable RAG pipelines in
+  production.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhatem5351&show_icons=true&locale=en" alt="mhatem5351" /></p>
+**Senior AI & MLOps Engineer · Wakeb Data** · Sep 2024 – Apr 2026 · Giza, Egypt
+- Architected a fully async, production multi-agent chatbot (LangGraph, Qwen served with vLLM on A100 GPUs): six
+  specialised agents, modular subgraphs, Arabic and English.
+- Owned model serving end to end: vLLM configuration, GPU allocation, model versions, health checks and automated
+  restarts across the production GPU servers.
+- Built hybrid retrieval (vector + BM25 with LLM reranking), node-level caching and web search over MCP, shipped as
+  Dockerized FastAPI services behind Nginx.
+- Delivered the second generation of the AIP semantic search (more accurate, faster, with image search), the SALIC
+  bilingual enterprise assistant with LLM evaluation and monitoring, and a research-paper agent with conversational
+  memory.
+- Moved key internal APIs from REST to gRPC to cut latency between services.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhatem5351&" alt="mhatem5351" /></p>
+**AI Engineer · ArabsStock** · Apr 2023 – Dec 2024 · remote
+- Built the Arabsstock Assistant: 14 LangGraph agents covering semantic search, AI image generation, database
+  operations and content moderation.
+- Engineered the platform's semantic search (OpenAI embeddings + Pinecone) and visual-similarity search across millions
+  of stock photos, videos and vectors.
+- Extended the platform into audio: sound generation and search for a beta sound library, instrument classification,
+  BPM detection and audio watermarking.
 
+**Data Scientist · Empoweromics** · Jan 2022 – Mar 2023 · Cairo · *Best Engineer of the Year*
+- Unified data from 3,008+ real-estate developers, each with its own schema, to scale the company's real-time e-map.
+- Built lead-lifecycle models for broker prioritisation, WhatsApp message classification (text and images) that routes
+  messages to the right department, and a fuzzy "smart search" that finds clients despite misspellings.
+- Designed ETL from Cosmos DB to SQL Server with scheduled Azure triggers.
+
+**Earlier**
+- AI research assistant and lecturer for M.Sc. students in biomedical informatics, The British University in Dubai
+  (2022, part-time, remote).
+- AI instructor, Military Technical College, Cairo (2022).
+- Freelance data scientist, healthcare analytics for a US software company (2022).
+- SQL Developer, MDP (2020 – 2021).
+
+### Selected open-source work
+
+- **[staged-llm-evaluator](https://github.com/mhatem5351/staged-llm-evaluator)**: a replayable LangGraph pipeline that
+  grades LLM outputs in separate quality, safety and retry stages, with the final verdict computed in code, not by
+  the model.
+- **[prompt-reliability-harness](https://github.com/mhatem5351/prompt-reliability-harness)**: measures how consistently
+  an LLM answers when the same question is paraphrased, misspelled, reordered or padded with distractors.
+- **[rag-answering-service](https://github.com/mhatem5351/rag-answering-service)**: a small FastAPI retrieval service
+  with cosine and dot-product indexes, a prompt-injection guardrail and latency / hit-rate metrics.
+- **[Arabic sentiment analysis](https://github.com/mhatem5351/Arabic-Sentiment-Analysis-With-Multiple-Models)**:
+  BiGRU, CNN and classical models on about 455k Arabic texts with AraVec embeddings.
+- **[Text summarization](https://github.com/mhatem5351/Text-Summarization-NLP)**: a Dash app comparing DistilBART, T5
+  and TextRank summaries (team project, AI diploma).
+
+My other public repositories are coursework from my AI diploma (2021–22), kept as a record of where I started.
+
+### Toolbox
+
+- **LLMs & agents:** LangGraph · OpenAI API · Azure OpenAI · Qwen · vLLM · MCP · Langfuse
+- **Retrieval:** Pinecone · Qdrant · pgvector · hybrid BM25 + dense search · LLM reranking
+- **Backend & infra:** Python · FastAPI · gRPC · PostgreSQL · Docker · Kubernetes (AWS EKS) · Nginx · CI/CD
+- **ML & data:** PyTorch · TensorFlow · scikit-learn · Spark · SQL Server · Azure · AWS
+
+### Education & certifications
+
+- M.Sc. Data Science, Cairo University (Faculty of Graduate Studies for Statistical Research), 2023 – 2026
+- Diploma in Artificial Intelligence, Information Technology Institute (ITI), 9-month program with EPITA Paris, 2021 – 2022
+- B.Eng. Structural Engineering, Tanta University, 2015 – 2020
+- AWS Certified Machine Learning – Specialty (2022)
+
+### Get in touch
+
+[LinkedIn](https://www.linkedin.com/in/mohamed-hatem-6a5790173) · [mhatem5351@gmail.com](mailto:mhatem5351@gmail.com)
