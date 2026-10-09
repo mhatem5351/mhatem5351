@@ -4,9 +4,9 @@
 orchestration, retrieval (RAG), self-hosted model serving, and the evaluation and monitoring that keep them honest.
 I'm based in Cairo and work remotely with teams in the Gulf and the US, in English and Arabic.
 
-I came to AI from structural engineering. After my engineering degree I moved into data work (SQL development, then
-data science). Over the last four years I have built AI platforms in production, and I now lead an AI engineering
-team. I hold the **AWS Certified Machine Learning – Specialty** and an **M.Sc. in Data Science** from Cairo University.
+I have **7 years of experience** in data and AI: SQL development, then data science, then building AI platforms in
+production, and I now lead an AI engineering team. I hold the **AWS Certified Machine Learning – Specialty** and an
+**M.Sc. in Data Science** from Cairo University.
 
 ### What I work on
 
