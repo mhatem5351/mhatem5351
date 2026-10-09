@@ -48,7 +48,7 @@ I have **7 years of experience** in data and AI: SQL development, then data scie
 
 <p><picture><source media="(prefers-color-scheme: dark)" srcset="assets/logos/mtc-dark.svg"><img src="assets/logos/mtc-light.svg" alt="Military Technical College" width="50" height="50" align="left"></picture>AI instructor, Military Technical College, Cairo<br><sub>2022</sub><br clear="left"></p>
 
-<p><picture><source media="(prefers-color-scheme: dark)" srcset="assets/logos/freelance-dark.svg"><img src="assets/logos/freelance-light.svg" alt="Briefcase icon" width="50" height="50" align="left"></picture>Freelance data scientist, healthcare analytics for a US software company<br><sub>2022</sub><br clear="left"></p>
+<p><img src="assets/logos/aestheticspro.svg" width="50" height="50" align="left" alt="AestheticsPro logo">Freelance data scientist, healthcare analytics for AestheticsPro, a US healthcare software company<br><sub>2022</sub><br clear="left"></p>
 
 <p><img src="assets/logos/mdp.svg" width="50" height="50" align="left" alt="MDP logo">SQL Developer, MDP<br><sub>2020&nbsp;–&nbsp;2021</sub><br clear="left"></p>
 
