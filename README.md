@@ -1,10 +1,10 @@
 <picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/banner-mobile-dark.svg"><source media="(max-width: 600px)" srcset="assets/banner-mobile-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg"><img src="assets/banner-light.svg" alt="Mohamed Hatem, AI Team Lead at Globant. Multi-agent LLM systems, RAG and LLM serving." width="100%"></picture>
 
-<p align="center"><a href="https://www.linkedin.com/in/mohamed-hatem-6a5790173"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/linkedin-dark.svg"><img src="assets/badges/linkedin-light.svg" alt="LinkedIn profile" height="34"></picture></a><a href="mailto:mhatem5351@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/email-dark.svg"><img src="assets/badges/email-light.svg" alt="Email: mhatem5351@gmail.com" height="34"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/aws-dark.svg"><img src="assets/badges/aws-light.svg" alt="AWS Certified Machine Learning – Specialty" height="34"></picture><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/msc-dark.svg"><img src="assets/badges/msc-light.svg" alt="M.Sc. in Data Science, Cairo University" height="34"></picture></p>
+<p align="center"><a href="https://www.linkedin.com/in/mohamed-hatem-6a5790173"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/linkedin-dark.svg"><img src="assets/badges/linkedin-light.svg" alt="LinkedIn profile" height="34"></picture></a><a href="mailto:mhatem5351@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/email-dark.svg"><img src="assets/badges/email-light.svg" alt="Email: mhatem5351@gmail.com" height="34"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/aws-dark.svg"><img src="assets/badges/aws-light.svg" alt="AWS Certified Machine Learning – Specialty" height="34"></picture><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/msc-dark.svg"><img src="assets/badges/msc-light.svg" alt="M.Sc. in Data Science, Cairo University: in progress, expected 2027" height="34"></picture></p>
 
 **AI Team Lead at [Globant](https://www.globant.com).** I design, ship and run production LLM systems: multi-agent orchestration, retrieval (RAG), self-hosted model serving, and the evaluation and monitoring that keep them honest. I'm based in Cairo and work remotely with teams in the Gulf and the US, in English and Arabic.
 
-I have **7 years of experience** in data and AI: SQL development, then data science, then building AI platforms in production, and I now lead an AI engineering team. I hold the **AWS Certified Machine Learning – Specialty** and an **M.Sc. in Data Science** from Cairo University.
+I have **7 years of experience** in data and AI: SQL development, then data science, then building AI platforms in production, and I now lead an AI engineering team. I hold the **AWS Certified Machine Learning – Specialty** and am completing an **M.Sc. in Data Science** at Cairo University (expected 2027).
 
 ## What I work on
 
@@ -30,7 +30,7 @@ I have **7 years of experience** in data and AI: SQL development, then data scie
 
 <p><img align="left" src="assets/logos/wakeb.svg" width="50" height="50" alt="Wakeb Data logo"><b>Senior AI &amp; MLOps Engineer</b> · Wakeb Data<br><sub>Sep&nbsp;2024&nbsp;–&nbsp;Apr&nbsp;2026 · Giza, Egypt</sub><br clear="left"></p>
 
-<ul><li>Architected a fully async, production multi-agent chatbot (LangGraph, Qwen served with vLLM on A100 GPUs): six specialised agents, modular subgraphs, Arabic and English.</li><li>Owned model serving end to end: vLLM configuration, GPU allocation, model versions, health checks and automated restarts across the production GPU servers.</li><li>Built hybrid retrieval (vector + BM25 with LLM reranking), node-level caching and web search over MCP, shipped as Dockerized FastAPI services behind Nginx.</li><li>Delivered the second generation of the AIP semantic search (more accurate, faster, with image search), the SALIC bilingual enterprise assistant with LLM evaluation and monitoring, and a research-paper agent with conversational memory.</li><li>Moved key internal APIs from REST to gRPC to cut latency between services.</li></ul>
+<ul><li>Architected a fully async, production multi-agent chatbot (LangGraph, Qwen served with vLLM on A100 GPUs): six specialised agents, modular subgraphs, Arabic and English.</li><li>Owned model serving end to end: vLLM configuration, GPU allocation, model versions, health checks and automated restarts across the production GPU servers.</li><li>Built hybrid retrieval (vector + BM25 with LLM reranking), node-level caching and web search over MCP, shipped as Dockerized FastAPI services behind Nginx.</li><li>Delivered the second generation of the AIP semantic search (more accurate, faster, with image search), a bilingual enterprise assistant for a Saudi government client with LLM evaluation and monitoring, and a research-paper agent with conversational memory.</li><li>Moved key internal APIs from REST to gRPC to cut latency between services.</li></ul>
 
 <p><img align="left" src="assets/logos/arabsstock.svg" width="50" height="50" alt="ArabsStock logo"><b>AI Engineer</b> · ArabsStock<br><sub>Apr&nbsp;2023&nbsp;–&nbsp;Dec&nbsp;2024 · remote</sub><br clear="left"></p>
 
@@ -48,7 +48,7 @@ I have **7 years of experience** in data and AI: SQL development, then data scie
 
 <p><picture><source media="(prefers-color-scheme: dark)" srcset="assets/logos/mtc-dark.svg"><img src="assets/logos/mtc-light.svg" alt="Military Technical College" width="50" height="50" align="left"></picture>AI instructor, Military Technical College, Cairo<br><sub>2022</sub><br clear="left"></p>
 
-<p><img src="assets/logos/aestheticspro.svg" width="50" height="50" align="left" alt="AestheticsPro logo">Freelance data scientist, healthcare analytics for a US software company<br><sub>2022</sub><br clear="left"></p>
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="assets/logos/freelance-dark.svg"><img src="assets/logos/freelance-light.svg" alt="Briefcase icon" width="50" height="50" align="left"></picture>Freelance data scientist, healthcare analytics for a US software company<br><sub>2022</sub><br clear="left"></p>
 
 <p><img src="assets/logos/mdp.svg" width="50" height="50" align="left" alt="MDP logo">SQL Developer, MDP<br><sub>2020&nbsp;–&nbsp;2021</sub><br clear="left"></p>
 
@@ -95,7 +95,7 @@ Freelance work: the site of an industrial-automation company in four languages (
 
 ## Education & certifications
 
-<p><img align="middle" src="assets/logos/cairo-university.svg" width="36" height="36" alt="Cairo University logo">&nbsp; <b>M.Sc. Data Science</b><br>Cairo University (Faculty of Graduate Studies for Statistical Research) · 2023&nbsp;–&nbsp;2026</p>
+<p><img align="middle" src="assets/logos/cairo-university.svg" width="36" height="36" alt="Cairo University logo">&nbsp; <b>M.Sc. Data Science</b><br>Cairo University (Faculty of Graduate Studies for Statistical Research) · 2023&nbsp;–&nbsp;2027 (expected)</p>
 
 <p><img align="middle" src="assets/logos/iti.svg" width="36" height="36" alt="Information Technology Institute (ITI) logo">&nbsp; <b>Diploma in Artificial Intelligence</b><br>Information Technology Institute (ITI), 9-month program with EPITA Paris · 2021&nbsp;–&nbsp;2022</p>
 
