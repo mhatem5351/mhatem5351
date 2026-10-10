@@ -28,7 +28,7 @@ I have **7 years of experience** in data and AI: SQL development, then data scie
 
 <p><img align="left" src="assets/logos/globant.svg" width="50" height="50" alt="Globant logo"><b>AI Team Lead</b> · <a href="https://www.globant.com">Globant</a><br><sub>Apr&nbsp;2026&nbsp;–&nbsp;present · remote</sub><br clear="left"></p>
 
-<ul><li>Leading AI engineering on the STA project: multi-agent LLM orchestration, LLM serving and scalable RAG pipelines in production.</li></ul>
+<ul><li>Leading AI engineering on the Saudi Tourism Authority (STA) project: an agentic LLM runtime (LangGraph) with retrieval, human-approval gates and evaluation, serving Noura, the public visitor assistant, and an internal staff assistant, in Arabic and English.</li></ul>
 
 <p><img align="left" src="assets/logos/wakeb.svg" width="50" height="50" alt="Wakeb Data logo"><b>Senior AI &amp; MLOps Engineer</b> · Wakeb Data<br><sub>Sep&nbsp;2024&nbsp;–&nbsp;Apr&nbsp;2026 · Giza, Egypt</sub><br clear="left"></p>
 
